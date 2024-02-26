@@ -1,0 +1,98 @@
+body {
+background-image: url(background.jpg);
+background-size: cover
+}
+
+.container {
+width: 60%;
+margin: auto;
+text-align: center;
+margin-bottom: 1%;
+background-color: rgba(0, 0, 0, 0.5);
+border-radius: 10px;
+padding: 3%;
+}
+
+.logo {
+width: 25%;
+}
+
+ .titolo {
+   color: rgb(0, 221, 0);
+   font-size: 22px;
+   margin-top: 0%;
+   margin-bottom: 5px;
+   font-family: "Lato", sans-serif;
+   font-weight: 700;
+   font-style: normal;
+   }
+
+   
+.options {
+ background-color: rgb(0, 221, 0);
+ width: 100%;
+ margin-top: 0%;
+ margin-bottom: 0%;
+ height: 30px;
+
+   }
+
+   button {
+   margin-top: 4px;
+ 
+    }
+
+   .testo-button {
+   font-size: x-small;
+   }
+ 
+.options {
+    font-size: smaller;
+    
+}
+
+nav {
+    text-align: justify;
+}
+
+.Monopattino {
+    color: white;
+    font-size: large;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+nav span {
+    color: white;
+    font-size: small;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.location {
+    color: white;
+    font-size: smaller;
+    font-family: "Lato", sans-serif;
+    font-weight: 50;
+    font-style: normal;
+}
+
+.carica-media{
+    border: 12px solid rgb(230, 153, 11);
+    border-radius: 5px;
+    margin-right: 50%;
+}
+
+.carica-piena{
+    border: 12px solid rgb(0, 221, 0);
+    border-radius: 5px;
+    margin-right: 20%;
+}
+
+.senza-carica{
+    border: 12px solid rgb(200, 32, 32);
+    border-radius: 5px;
+    margin-right: 80%;
+}
